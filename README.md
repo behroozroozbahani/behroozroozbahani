@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **behroozroozbahani7@gmail.com**
 
-- ⚡ Fun fact **Keepet come I'm Dancing too**
+- ⚡ Fun fact **Keep it come I'm Dancing too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
