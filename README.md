@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=behroozroozbahani" alt="behroozroozbahani" /></a> </p>
 
-- 🌱 I’m currently learning **React, SQL Server, .NET**
+- 🌱 I’m currently learning **React, SQL Server, .NET Core**
 
-- 💬 Ask me about **React, SQL Server, .NET**
+- 💬 Ask me about **React, SQL Server, .NET Core**
 
 - 📫 How to reach me **behroozroozbahani7@gmail.com**
 
