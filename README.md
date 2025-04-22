@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=behroozroozbahani" alt="behroozroozbahani" /></a> </p>
 
-- 📫 How to reach me: **occupation.cv86@gmail.com** or **www.linkedin.com/in/behroozroozbahani**
+- 📫 How to reach me: **occupation.cv86@gmail.com**
 
 - ⚡ Fun fact: **Do you know why pizza is round? Then; its box is square? Then; you want to eat is triangle? Because its money is rectangular!**
 
