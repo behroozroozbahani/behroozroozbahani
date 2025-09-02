@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Behrooz
-<h3 align="center">Software Developer (Web - Backend) in the field of .NET. Using C# programming language, Asp.Net Core framework, MVC architecture and RESTful APIs. Working with relational and non-relational databases such as SQL Server and MongoDB as well as EF Core and implementing software architecture. Interested in solving problems and collaborating in Agile teams and using Git tools to develop and deploy projects. Eager to learn and use new methods and technologies, individual-group development and organizational progress.</h3>
+<h3 align="center">Backend Developer in the field of .NET. Using C# programming language, Asp.Net Core framework, MVC architecture and RESTful APIs. Working with relational and non-relational databases such as SQL Server and MongoDB as well as EF Core and implementing software architecture. Interested in solving problems and collaborating in Agile teams and using Git tools to develop and deploy projects. Eager to learn and use new methods and technologies, individual-group development and organizational progress.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=behroozroozbahani&label=Profile%20views&color=0e75b6&style=flat" alt="behroozroozbahani" /> </p>
 
