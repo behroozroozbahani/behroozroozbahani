@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Behrooz
-<h3 align="center">Backend developer passionate about creating efficient and scalable web applications with C# and ASP.NET Core. 
-Experienced in MVC, Web API, RESTful services, EF Core, Razor Pages, and real-time features with SignalR.
-Skilled in SQL Server, MongoDB, and Git, I enjoy solving challenges, learning new technologies, and delivering high-quality solutions and always eager to grow and contribute to impactful projects.</h3>
+<h3 align="center">Backend Developer with a strong focus on the .NET ecosystem.
+
+I work mainly with C# and ASP.NET Core (Web API, MVC, Razor Pages) and have hands-on experience in building RESTful APIs using Entity Framework Core and SQL Server. I am familiar with Clean Architecture principles and version control using Git, and I continuously strive to improve code quality, scalability, and maintainability.
+
+I enjoy problem-solving, learning new technologies, and writing clean, structured backend solutions. Currently focused on deepening my knowledge of backend architecture and modern .NET practices..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=behroozroozbahani&label=Profile%20views&color=0e75b6&style=flat" alt="behroozroozbahani" /> </p>
 
