@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Hi, I’m Behrooz.
+<h1 align="center">Hi 👋, I’m Behrooz.
 Welcome to my Github profile!
 <h3 align="center">Backend Developer with a strong focus on the .NET ecosystem.
 
