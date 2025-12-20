@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I’m Behrooz
-<<Welcome to my Github profile!>>
+<h1 align="center">Hi 👋, Welcome to my Github profile!
 <h3 align="center">Backend Developer with a strong focus on the .NET ecosystem.
 
 I work mainly with C# and ASP.NET Core (Web API, MVC, Razor Pages) and have hands-on experience in building RESTful APIs using Entity Framework Core and SQL Server. I am familiar with Clean Architecture principles and version control using Git, and I continuously strive to improve code quality, scalability, and maintainability.
