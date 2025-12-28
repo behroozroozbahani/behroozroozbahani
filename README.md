@@ -15,7 +15,7 @@ I enjoy problem-solving, learning new technologies, and writing clean, structure
 <p align="left">
 <a href="https://linkedin.com/in/behroozroozbahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behroozroozbahani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/32110682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32110682" height="30" width="40" /></a>
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/behroozroozbahani) 
+<a href="https://reddit.com/user/behroozroozbahani" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="32110682" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
