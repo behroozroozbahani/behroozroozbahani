@@ -7,7 +7,7 @@ I enjoy problem-solving, learning new technologies, and writing clean, structure
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=behroozroozbahani&label=Profile%20views&color=0e75b6&style=flat" alt="behroozroozbahani" /> </p>
  
-- 📫 How to reach me: **career.cv86@gmail.com**
+- 📫 How to reach me: **occupation.manage@gmail.com**
 
 - ⚡ Fun fact: **Do you know why pizza is round? Then; its box is square? Then; you want to eat is triangle? Because its money is rectangular!**
 
